@@ -1,0 +1,32 @@
+/* Body */
+body {
+    font-family: "fuente_pixel", Arial, sans-serif;
+}
+
+/* Descripcion juego */
+#game-description {
+    margin: 20px;
+}
+
+/* Títulos */
+#game-description h1, #game-description h2 {
+    color: #fff;
+    background-color: #333;
+    padding: 10px;
+}
+
+/* Estilos texto */
+#game-description p, #game-description ul, #game-description li {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Estilos lista */
+#game-description ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#game-description li {
+    margin-left: 20px;
+}
